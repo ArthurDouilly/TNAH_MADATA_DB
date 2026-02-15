@@ -12,9 +12,13 @@ Ce dépôt est un fork du dépôt TNAH_FILM_DB ([GitHub - LauryneL/TNAH_FILM_DB:
 
 3. Modification du fichier .env avec les éléments suivants : 
    
-   - `"madata"` comme nom de Database Postgresql
+   - `"madata"` comme nom de Database Postgresql ;
    
-   - `"madata_db"` comme nom de schéma
+   - `"madata_db"` comme nom de schéma ;
+   
+   - Indiquer le port postgresql dans pgPort ;
+   
+   - Indiquer le host dans pgHost.
    
    ```env
    pgDatabase="madata"
