@@ -1,6 +1,6 @@
 # MaData - projet d'analyse des données du MAD
 
-Ce dépôt est un fork du dépôt TNAH_FILM_DB ([GitHub - LauryneL/TNAH_FILM_DB: Generate a database from data bulk](https://github.com/LauryneL/TNAH_FILM_DB)). IL a été réalisé dans le cadre d'un projet de groupe du M2 TNAH de l'École nationale des Chartes par Léticia Mvogo, Charline Emiry, Neïla Hamoudi et Arthur Douilly, lesquels sont responsables de la création des scripts SQL et de l'anonymisation des données.
+Ce dépôt est un fork du dépôt TNAH_FILM_DB ([GitHub - LauryneL/TNAH_FILM_DB: Generate a database from data bulk](https://github.com/LauryneL/TNAH_FILM_DB)). Il a été réalisé dans le cadre d'un projet de groupe du M2 TNAH de l'École nationale des Chartes par Léticia Mvogo, Charline Emiry, Neïla Hamoudi et Arthur Douilly, lesquels sont responsables de la création des scripts SQL et de l'anonymisation des données.
 
 **Le crédit pour la réalisation des scripts et du dépôt GitHub originel revient à Maxime CHALLON et Lauryne LEMOSQUET. Les données de la base appartiennent au MAD.**
 
