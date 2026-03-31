@@ -16,9 +16,9 @@ Ce dépôt est un fork du dépôt TNAH_FILM_DB ([GitHub - LauryneL/TNAH_FILM_DB:
    
    - `"madata_db"` comme nom de schéma ;
    
-   - Indiquer le port postgresql dans pgPort ;
+   - `"localhost"` comme hôte dans pgHost ;
    
-   - Indiquer le host dans pgHost.
+   - `"5432"` comme port dans pgPort.
    
    ```env
    pgDatabase="madata"
